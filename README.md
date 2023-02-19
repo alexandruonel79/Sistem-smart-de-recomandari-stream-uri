@@ -1,1 +1,1 @@
-# Sistem-smart-de-recomandari-stream-uri
+# proiect-poo-template
